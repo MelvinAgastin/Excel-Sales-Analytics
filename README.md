@@ -10,11 +10,11 @@
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
-  **Sales analytics serves as a powerful tool that enables businesses to closely monitor and evaluate their sales activities and overall performance. By utilizing data-driven insights and analytical techniques, businesses gain a comprehensive understanding of their sales processes, customer behaviors, and market trends. This empowers them to make informed decisions, optimize sales strategies, and drive growth in a competitive market landscape. Through sales analytics, businesses can identify opportunities for improvement, capitalize on successful sales tactics, and align their efforts with market demands to achieve greater success.**
+  - Sales analytics serves as a powerful tool that enables businesses to closely monitor and evaluate their sales activities and overall performance. By utilizing data-driven insights and analytical techniques, businesses gain a comprehensive understanding of their sales processes, customer behaviors, and market trends. This empowers them to make informed decisions, optimize sales strategies, and drive growth in a competitive market landscape. Through sales analytics, businesses can identify opportunities for improvement, capitalize on successful sales tactics, and align their efforts with market demands to achieve greater success.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
-Analyzing sales data is a crucial aspect of any business strategy, as it allows organizations to gain valuable insights into their sales performance and customer behavior. Delving into sales data helps in identifying potential areas for improvement, refining sales tactics, and identifying growth opportunities, thereby enabling businesses to stay competitive and thrive in the market.
+  - Analyzing sales data is a crucial aspect of any business strategy, as it allows organizations to gain valuable insights into their sales performance and customer behavior. Delving into sales data helps in identifying potential areas for improvement, refining sales tactics, and identifying growth opportunities, thereby enabling businesses to stay competitive and thrive in the market.
 
 Tracking key performance indicators (KPIs) provides a clear and measurable way to assess the success of sales efforts and overall business performance. It enables businesses to set targets, measure progress, and make data-driven decisions to enhance sales effectiveness and maximize revenue.
 
