@@ -10,7 +10,7 @@
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
-Sales analytics serves as a powerful tool that enables businesses to closely monitor and evaluate their sales activities and overall performance. By utilizing data-driven insights and analytical techniques, businesses gain a comprehensive understanding of their sales processes, customer behaviors, and market trends. This empowers them to make informed decisions, optimize sales strategies, and drive growth in a competitive market landscape. Through sales analytics, businesses can identify opportunities for improvement, capitalize on successful sales tactics, and align their efforts with market demands to achieve greater success.
+  **Sales analytics serves as a powerful tool that enables businesses to closely monitor and evaluate their sales activities and overall performance. By utilizing data-driven insights and analytical techniques, businesses gain a comprehensive understanding of their sales processes, customer behaviors, and market trends. This empowers them to make informed decisions, optimize sales strategies, and drive growth in a competitive market landscape. Through sales analytics, businesses can identify opportunities for improvement, capitalize on successful sales tactics, and align their efforts with market demands to achieve greater success.**
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
@@ -56,3 +56,9 @@ The role of financial reports is multifaceted, providing critical information th
 - [x]	Establishing data model relationships with Power Pivot.
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
 - [x]	Utilizing DAX to create calculated columns.
+
+## Soft Skills:
+- [x]	Refined understanding of Sales & Finance Reports.
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report-building plan.
