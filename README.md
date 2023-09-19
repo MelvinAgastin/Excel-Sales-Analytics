@@ -1,4 +1,5 @@
 # Excel-Sales-Analytics
+This project centered on in-depth financial analysis. It involves assessing net sales variances across different dimensions and delves into crucial metrics like COGS, gross margin, and percentage. Additionally, the project emphasizes detailed profit and loss reports by fiscal year and month, along with growth percentage calculations, offering valuable insights into quarterly and monthly financial trends.
 ## Sales Report :
 
 
